@@ -17,7 +17,7 @@ class HomeScreen extends StatelessWidget {
     'entertainment': 'assets/images/entertainment.jpg',
     'General': 'assets/images/genral.jpg',
     'Health': 'assets/images/health.jpg',
-    'Science': 'assets/images/science.jpg',
+    'Science': 'assets/images/sciencejpg.jpg',
     'Sports': 'assets/images/sports.jpg',
     'Technology': 'assets/images/tech.jpg',
   };
